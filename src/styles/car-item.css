@@ -1,0 +1,42 @@
+.car__item{
+  border: 1px solid black;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.car__item-info span i{
+  color: orange;
+  font-size: 1.1rem;
+}
+
+.car__item-btn{
+border-radius: 0;
+ border: none;
+ outline: none;
+ background-color: rgb(46, 5, 85);
+ padding: 8px 0px;
+}
+
+.car__btn-details{
+  background: orange;
+  border-radius: 0px 4px 4px 0px;
+}
+
+.car__item-btn a{
+  display: none;
+  text-decoration: none;
+  color: aliceblue;
+  font-weight: 500;
+}
+.car__item-btn a:hover{
+  color: aliceblue;
+}
+
+.car__item-content h4{
+  font-size: 1.8rem;
+}
+
+.car__item-content h6{
+  font-size: 1.2rem;
+  font-weight: 600;
+}
